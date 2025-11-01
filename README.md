@@ -1,4 +1,5 @@
-<img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/ea12ddc8-5560-47c7-8163-01eb530fd70b" />
+<img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/0bcd00a1-9e69-4207-8c05-ab5fbb5c235c" />
+
 
 # 🎬 Video Trimmer - Professional Video Editor
 
@@ -8,6 +9,7 @@ A powerful, feature-rich video trimming application with a modern UI, built with
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
+Big thanks to pointave and his program https://github.com/pointave/SharkBit
 ## ✨ Features
 
 ### Core Functionality
@@ -31,11 +33,6 @@ A powerful, feature-rich video trimming application with a modern UI, built with
 - 📏 **Timeline Ruler** - Frame numbers or timecode display
 - ⚙️ **Settings Persistence** - Remembers your preferences
 
-### Design System
-- 🎨 **Consistent Colors** - Semantic color scheme throughout
-- 📝 **Typography Hierarchy** - Clear font sizes and weights
-- 📐 **8-Point Grid** - Consistent spacing and layout
-- 💎 **Modern Style** - Gradients, shadows, smooth interactions
 
 ## 🚀 Quick Start
 
