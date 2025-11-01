@@ -1,7 +1,6 @@
+# 🎬 Video Trimmer 
 <img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/0bcd00a1-9e69-4207-8c05-ab5fbb5c235c" />
 
-
-# 🎬 Video Trimmer - Professional Video Editor
 
 A powerful, feature-rich video trimming application with a modern UI, built with PyQt6 and OpenCV.
 
