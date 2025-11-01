@@ -1,4 +1,5 @@
-[video_trimmer_readme.md](https://github.com/user-attachments/files/23279783/video_trimmer_readme.md)
+<img width="1402" height="979" alt="image" src="https://github.com/user-attachments/assets/ea12ddc8-5560-47c7-8163-01eb530fd70b" />
+
 # 🎬 Video Trimmer - Professional Video Editor
 
 A powerful, feature-rich video trimming application with a modern UI, built with PyQt6 and OpenCV.
